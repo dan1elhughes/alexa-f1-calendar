@@ -1,3 +1,5 @@
+// Local development script which just logs out the result.
+
 const getNextRace = require('./getNextRace');
 
 getNextRace()
