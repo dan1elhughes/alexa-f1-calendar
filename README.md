@@ -35,3 +35,7 @@ Tabs, trailing commas, `const` wherever possible, and fat arrows wherever possib
 ## API reference
 
 Built using [Ergast developer API](http://ergast.com/mrd/) for race names and dates.
+
+## License
+
+[ISC](https://raw.githubusercontent.com/dan1elhughes/alexa-f1-calendar/master/LICENSE.md).
